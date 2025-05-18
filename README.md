@@ -95,51 +95,10 @@ EncycloJI serves as a curated repository of established spatial transcriptomic a
 - Standardized visualization of method outputs
 - Ground truth datasets for validating spatial analysis methods
 
-## Installation
-
-```bash
-# Install the core package
-pip install spatioloji
-
-# Install additional packages
-pip install dimensionji communicoji fusionji encycloji
-
-# Alternatively, install the complete suite
-pip install jiuniverse
-```
-
-## Getting Started
-
-```python
-# Example code for basic analysis with SpatioloJI
-import spatioloji as sj
-
-# Load spatial transcriptomic data
-st_data = sj.read_data("path/to/data")
-
-# Preprocess and normalize
-st_data = sj.preprocess(st_data)
-
-# Visualize spatial gene expression
-sj.plot_spatial(st_data, genes=["Gene1", "Gene2", "Gene3"])
-
-# Identify spatially variable genes
-spatial_genes = sj.find_spatial_genes(st_data)
-
-# Perform spatial clustering
-clusters = sj.spatial_clustering(st_data)
-
-# Visualize clusters on tissue
-sj.plot_clusters(st_data, clusters)
-```
-
-## Documentation
-
-Comprehensive documentation for Ji Universe is available at [https://jiuniverse.readthedocs.io](https://jiuniverse.readthedocs.io)
 
 ## Contributing
 
-We welcome contributions from the community! Please see our [contribution guidelines](https://github.com/jiuniverse/jiuniverse/CONTRIBUTING.md) for more information on how to get involved.
+We welcome contributions from the community!
 
 ## Citation
 
