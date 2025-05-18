@@ -1,7 +1,7 @@
 # Ji Universe: Advanced Spatial Transcriptomics Analysis
 
 <div align="center">
-  <img src="ji-universe-logo.svg" alt="Ji Universe Logo" width="600"/>
+  <img src="ji-universe-complete-logo.svg" alt="Ji Universe Logo" width="600"/>
 </div>
 
 Ji Universe is a comprehensive suite of specialized Python/R packages designed for cutting-edge spatial transcriptomic analysis. Our ecosystem offers powerful tools for researchers to explore, analyze, and visualize spatial gene expression data with unprecedented depth and precision.
