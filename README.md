@@ -18,6 +18,7 @@ SpatioloJI serves as the foundational cornerstone of the Ji Universe, providing 
 - Customizable spatial statistics and spatial dependency testing
 - Comprehensive documentation and tutorials
 - Integration with popular single-cell analysis frameworks (Scanpy)
+- Storage of spatial statistics information
 
 ---
 
